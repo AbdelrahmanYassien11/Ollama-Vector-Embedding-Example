@@ -1,8 +1,10 @@
 # 🐙 Ollama Vector Embedding Example
 
+<p align="center">
 [![Status](https://img.shields.io/badge/status-experimental-6B2B44?style=for-the-badge)](#)
 [![Made with Ollama](https://img.shields.io/badge/Made%20with-Ollama-AA1745?style=for-the-badge)](#)
 <img src="https://img.shields.io/badge/Python-3B36E9?style=for-the-badge&logo=gnu&logoColor=white" />
+</p>
 
 A tiny, focused example showing how to generate and store vector embeddings with Ollama and Chroma — ideal for retrieval, semantic search, or RAG prototypes, to practice RAG basics to make this (https://github.com/AbdelrahmanYassien11/ReAct-Agent-to-generate-README-Test-Matrix-for-Verification-Flows-using-Ollama) a functional agent integrated with a RAG system.
 
